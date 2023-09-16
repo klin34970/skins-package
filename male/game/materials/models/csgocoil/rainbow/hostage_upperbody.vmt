@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+		"$baseTexture" "models\csgocoil\rainbow\hostage_upperbody"
+		"$bumpmap" "models\csgocoil\rainbow\hostage_upperbody_normal"
+		"$phongexponenttexture" "models\csgocoil\rainbow\hostage_upperbody_exponent"
+		"$rimmask" "1"
+//		"$phongBoost" "135"
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/kodua/bo/i_c_zom_der_zombie_body2_c"
+	"$halflambert" "1"	
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongexponenttexture" "models/player/custom_player/kodua/bo/i_c_zom_der_zombie_body2_g"
+	"$phongFresnelRanges" "[0 0.5 1]"	
+}

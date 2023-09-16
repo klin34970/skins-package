@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\custom_player\kodua\shared\gore_brain2"
+	"$bumpmap" "models\player\custom_player\kodua\shared\gore2_l4d_n"
+
+	"$phong" "1"
+	//"$phongexponenttexture" "models/player/custom_player/kodua/shared/gore2_exp"
+	"$phongexponent" "150"
+	"$phongboost" ".15"
+	"$phongfresnelranges" "[4 6 10]"
+	"$PhongAlbedoTint" "1"
+
+	"$halflambert" "1"
+}

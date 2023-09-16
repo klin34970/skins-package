@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+		"$baseTexture" "models\csgocoil\red/hostage_hair"
+		"$translucent" "1"	
+		"$nocull" "1"	
+		"$bumpmap" "models\csgocoil\red\hostage_hair_normal"
+		"$rimlight" "0"
+		"$phongBoost" "40"
+}

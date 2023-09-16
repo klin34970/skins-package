@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+		"$baseTexture" "models\csgocoil\blu\hostage_head"
+		"$bumpmap" "models\csgocoil\blu\hostage_head_normal"
+		"$nocull" "1"
+		"$phongexponenttexture" "models\csgocoil\blu\hostage_head_exponent"
+		"$rimmask" "1"
+//		"$phongBoost" "85"
+}	

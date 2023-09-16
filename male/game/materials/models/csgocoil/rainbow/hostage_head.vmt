@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+		"$baseTexture" "models\csgocoil\rainbow\hostage_head"
+		"$bumpmap" "models\csgocoil\blu\hostage_head_normal"
+		"$nocull" "1"
+		"$phongexponenttexture" "models\csgocoil\rainbow\hostage_head_exponent"
+		"$rimmask" "1"
+		"$phong" "1"
+		"$phongBoost" ".4"
+	//	"$phongExponent" "5"  
+		"$phongTint" "[1.0 1.0 1.0]"
+		"$phongFresnelRanges" "[.2 .2 1]"
+		"$phongdisablehalflambert" "1"
+		"$rimlight" "1"
+		"$rimlightexponent" "8"
+		"$rimlightboost" "1"
+"Proxies"
+	{
+	"AnimatedTexture"
+	 {
+		"animatedtexturevar" "$baseTexture"
+		"animatedtextureframenumvar" "$frame"
+		"animatedtextureframerate" "30"
+		}
+	 }
+}
+
+
+

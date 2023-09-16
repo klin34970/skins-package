@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\kodua\hellknight\hellknight"
+	"$bumpmap" "models/player/kodua/hellknight/hellknight_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost" ".01"
+	"$phongfresnelranges" "[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$halflambert" "1"
+}

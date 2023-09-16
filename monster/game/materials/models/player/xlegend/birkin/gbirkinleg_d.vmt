@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\xlegend\birkin\gbirkinleg_d"
+	"$bumpmap" "models\player\xlegend\birkin\gbirkinleg_normal"
+
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" ".04"
+	"$phongfresnelranges" "[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+}

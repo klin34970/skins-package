@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kodua/gore_fast/gore_fast"
+	"$bumpmap" "models/player/kodua/gore_fast/gore_fast_normal"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost" ".01"
+	"$phongfresnelranges" "[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$halflambert" "1"
+}
